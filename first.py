@@ -1,3 +1,4 @@
-print("hello world")
-print("i am soni")
+print("hello world i am soni")
+
+
 
